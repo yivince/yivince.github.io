@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fei Liu - The University of Melbourne"
+title: "Fei Liu - The University of Melbossurne"
 excerpt: "Fei Liu - The University of Melbourne"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a (final-year) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
+I am a (final-year11) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
 
 Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and [Omer Levy](https://levyomer.wordpress.com/).
 
