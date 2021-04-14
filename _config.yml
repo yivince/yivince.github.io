@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : #"mailto:zhangyanfei@my.swjtu.edu.cn"
+  email            : "mailto:zhangyanfei@my.swjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6545-8432"
+  linkedin         : "https://www.linkedin.com/in/yanfei-zhang-57176459/"
+  orcid            : #"http://orcid.org/0000-0001-6545-8432"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
