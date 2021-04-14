@@ -14,7 +14,7 @@ redirect_from:
 
 **PhD Candidate**
 
-Southwest Jiaotong University([西南交通大学](swjtu.edu.cn))
+Southwest Jiaotong University([瑗垮崡浜ら�氬ぇ瀛(swjtu.edu.cn))
 
 Key laboratory of High-speed railway Engineering, Ministry of Education
 
