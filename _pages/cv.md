@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Railway Engineering, Southwest Jiaotong University, China,Sep. 2018- Present
+* M.Eng in Civil Engineering, Taiyuan University of Technology, China
+* B.Eng in Civil Engineering, Central South University of Forestry and Technology, China
 
 Work experience
 ======
