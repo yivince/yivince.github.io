@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "yanfei's academic personal websites"
+title: "Yanfei's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
