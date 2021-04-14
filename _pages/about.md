@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "yanfei's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img src="C:\Users\Administrator\Documents\GitHub\yivince.github.io\1\images\profile.png" alt="img" style="zoom: 50%;" />
-
 **Yanfei Zhang**
 
 **PhD Candidate**
 
-Southwest Jiaotong University([西南交通大学](swjtu.edu.cn))
+Southwest Jiaotong University([西南交通大学](www.swjtu.edu.cn))
 
 Key laboratory of High-speed railway Engineering, Ministry of Education
 
