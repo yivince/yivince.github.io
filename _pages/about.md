@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Yanfei Zhang's academic personal website"
 excerpt: "About me"
 author_profile: true
