@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Railway Engineering, Southwest Jiaotong University, China,Sep. 2018- Present
-* M.Eng in Civil Engineering, Taiyuan University of Technology, China
-* B.Eng in Civil Engineering, Central South University of Forestry and Technology, China
+* Ph.D. in Railway Engineering, Southwest Jiaotong University, China, Sep. 2018- Present
+* M.Eng in Civil Engineering, Taiyuan University of Technology, China, Sep. 2015- June.2018
+* B.Eng in Civil Engineering, Central South University of Forestry and Technology, China, Sep.2011-June.2015
 
-Work experience
+RESEARCH INTERESTS   
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Testing Study of Behavior of Soils
+* Qanat Culvert Stability
+* Analyses of Suction Pile Behavior
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ENGLISH fluently, skilled in writing papers 
+* Model test design and processing
+* Data acquisition program coding/loading device control program coding by Python
+* Soil suction testing technology
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
