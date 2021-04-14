@@ -7,15 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Yanfei Zhang**
+I am a PhD student at the [Key laboratory of High-speed railway Engineering, Ministry of Education](https://sro.swjtu.edu.cn/info/1100/7947.htm) £¬part of the [School of Civil Engineering](https://civil.swjtu.edu.cn/civil/english) at [Southwest Jiaotong University](https://en.swjtu.edu.cn/), where I work on soil void stability. 
 
-**PhD Candidate**
+I have an MS in geotechnical engineering from TYUT, where I was a research assistant for [David Du](https://www.linkedin.com/in/david-du-47b79719/) and a teaching assistant for [Xiaohong Bai](http://jgxy.tyut.edu.cn/info/1286/3320.htm). I have a BS in CE from CSUFT, where I worked in [Hongbin Xiao](https://tmxy.csuft.edu.cn/szdw/jsfc/201006/t20100607_33824.html)'s lab.
 
-Southwest Jiaotong University([11(swjtu.edu.cn))
+------
 
-Key laboratory of High-speed railway Engineering, Ministry of Education
-
-School of Civil Engineering, Southwest Jiaotong University, Chengdu, China
-
-Tel: 86-17703434451; E-mail: [Zhangyanfei@my.swjtu.edu.cn](mailto:Zhangyanfei@my.swjtu.edu.cn)
-
+[E-mail](mailto:Zhangyanfei@my.swjtu.edu.cn)/[Linkedln](https://www.linkedin.com/in/yanfei-zhang-57176459/)
