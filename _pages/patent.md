@@ -7,6 +7,8 @@ redirect_from:
   - /patent
 ---
 
+{% include base_path %}
+
 Liu, X., **Zhang, Y.**,A test device and test method of the high-speed railway reinforced road-based model of qanat. (Invention patent, under review)
 
  Liu, X., **Zhang, Y.**, A model test system and test method for studying the structure collapse of the foundation of qanat under the action of train load. (Invention patent, under review)
