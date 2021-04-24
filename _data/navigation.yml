@@ -6,6 +6,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+<<<<<<< HEAD
   # - title: "Teaching"
   #   url: /teaching/    
     
@@ -20,3 +21,16 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+=======
+  - title: "Teaching"
+    url: /teaching/    
+ 
+  - title: "Patent"
+    url: /patent/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+>>>>>>> d8f90214cf2994a15fdbf2ff34c91235664b7320

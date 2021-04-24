@@ -1,13 +1,20 @@
 ---
 permalink: /
+<<<<<<< HEAD
 title: "Fei Liu - The University of Melbossurne"
 excerpt: "Fei Liu - The University of Melbourne"
+=======
+title: "Yanfei Zhang's academic personal website"
+excerpt: "About me"
+>>>>>>> d8f90214cf2994a15fdbf2ff34c91235664b7320
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a third-year PhD student at the [Key laboratory of High-speed railway Engineering, Ministry of Education](https://sro.swjtu.edu.cn/info/1100/7947.htm) ，part of the [School of Civil Engineering](https://civil.swjtu.edu.cn/vatuu/EnglishView) at [Southwest Jiaotong University](https://en.swjtu.edu.cn/), where I work on soil void stability. 
 
+<<<<<<< HEAD
 I am a (final-year11) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
 
 Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and [Omer Levy](https://levyomer.wordpress.com/).
@@ -54,3 +61,8 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+=======
+I have an MS in geotechnical engineering from TYUT, where I was co-supervised by Prof. [David Du](https://www.linkedin.com/in/david-du-47b79719/) and Prof. [Xiaohong Bai](http://jgxy.tyut.edu.cn/info/1286/3320.htm). I have a BS in [CE](https://tmxy.csuft.edu.cn/) from [CSUFT](https://english.csuft.edu.cn/), where I worked in [Hongbin Xiao](https://tmxy.csuft.edu.cn/szdw/jsfc/201006/t20100607_33824.html)'s lab.
+
+[E-mail](mailto:Zhangyanfei@my.swjtu.edu.cn)/[Linkedln](https://www.linkedin.com/in/yanfei-zhang-57176459/)
+>>>>>>> d8f90214cf2994a15fdbf2ff34c91235664b7320
