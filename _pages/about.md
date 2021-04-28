@@ -1,18 +1,13 @@
 ---
 permalink: /
-<<<<<<< HEAD
-title: "Fei Liu - The University of Melbossurne"
-excerpt: "Fei Liu - The University of Melbourne"
-=======
 title: "Yanfei Zhang's academic personal website"
 excerpt: "About me"
->>>>>>> d8f90214cf2994a15fdbf2ff34c91235664b7320
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a third-year PhD student at the [Key laboratory of High-speed railway Engineering, Ministry of Education](https://sro.swjtu.edu.cn/info/1100/7947.htm) ，part of the [School of Civil Engineering](https://civil.swjtu.edu.cn/vatuu/EnglishView) at [Southwest Jiaotong University](https://en.swjtu.edu.cn/), where I work on soil void stability. 
+I am a third-year PhD student at the [Key laboratory of High-speed railway Engineering, Ministry of Education](https://sro.swjtu.edu.cn/info/1100/7947.htm) ，part of the [School of Civil Engineering](https://civil.swjtu.edu.cn/vatuu/EnglishView) at [Southwest Jiaotong University](https://en.swjtu.edu.cn/), where I work on underground void stability. 
 
 <<<<<<< HEAD
 I am a (final-year11) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
