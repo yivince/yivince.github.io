@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV, PDF file [link](https://github.com/yivince/yivince.github.io/raw/master/files/paper1.pdf)"
+title: "CV, "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+PDF file [link](https://github.com/yivince/yivince.github.io/raw/master/files/paper1.pdf)
+
 
 Education
 ======
