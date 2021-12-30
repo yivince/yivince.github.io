@@ -27,9 +27,28 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Zhang, Y., Liu, X., Stability of Qanat tunnel in c-φ soil under surcharge,
+International Journal of Geomechanics. (Under review)
+* Zhang, Y., Liu, X.,Study on the critical depth of safety critical depth of the high-speed railway's qanat
+foundation channel, China Railway Science. (in Chinese, EI, Accept)
+* Liu, X., Yang, J., Zhang, Y., Yuan, S., Gao, Z., Chen, W., Jiang, G.. Tehran-Isfahan High-speed
+Railway Ground Soil Variability Analysis and Probability Distribution, Journal of Railways. (in
+Chinese, EI, Accept)
+* Chen, W., Min, S., Chala, A. T., Zhang, Y., & Liu, X.. Assessing compaction of existing railway
+subgrades using dynamic cone penetration testing[J]. Proceedings of the Institution of Civil
+Engineers-Geotechnical Engineering, 2020: 1-12. (SCI Q4,Accept)
+* Wang, L., Li, X., Cheng, Y., Zhang, Y., & Bai, X.. Effects of Coal-Bearing Metakaolin on The
+Compressive Strength and Permeability of Cemented Silty Soil and Mechanisms [J]. Construction and
+Building Materials, 2018, 186: 174-181. (SCI, Q1)
+* Zhang, Y., Gao, J., Zhang, W., Du, Y., & Bai, X.. Model Test Study on Steel Pipe Pile Foundation
+Based on Shape Acceleration Array [J]. Journal of Central North University(Natural Sciences
+Edition), 2017:38 (4), 452-457. (in Chinese)
+* Wang, L., Zhang, Y., Yang, Y., Wang, P., & Bai, X.. Study on Permeability of CMK and Cement
+Stabilized Soil, Non-Metallic Mines, 2018：41 (1), 45-48. (in Chinese)
+* Gao, J., Du, Y., Zhang, Y.. Application of Shape Acceleration Array Technology to Lab Test of
+Clustered Suction Piles [J]. Construction Technology, 2017:(S1),16-21. (in Chinese)
+* Zhang, W., Du, Y., Gao, J., Zhang, Y., Guo, Z., & Bai, X.. Calculation for ultimate inclined pull-out
+capacity of single suction pile in sand [J]. Journal of Guangxi University(Natural Science Edition),
   
 Patents
 ======
