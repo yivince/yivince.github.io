@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV, PDF file [link](https://github.com/yivince/yivince.github.io/raw/master/files/paper1.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
