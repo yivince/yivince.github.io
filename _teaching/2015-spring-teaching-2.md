@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Subgrade engineering"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2019-spring-teaching-1
+venue: "SWJTU"
+date: 2019-01-01
+location: "Chengdu, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant of Prof. Xianfeng Liu
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In transport engineering, subgrade is the native material underneath a constructed road, pavement or railway track (US: railroad track). It is also called formation level. The term can also refer to imported material that has been used to build an embankment.

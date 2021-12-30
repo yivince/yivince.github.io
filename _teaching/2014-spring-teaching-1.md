@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Soil mechanics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2016-spring-teaching-1
+venue: "TYUT"
+date: 2016-01-01
+location: "Taiyuan, Chengdu"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant of Prof. Xiaohong Bai 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
+[Soil mechanics](https://en.wikipedia.org/wiki/Soil_mechanics) is a branch of soil physics and applied mechanics that describes the behavior of soils. It differs from fluid mechanics and solid mechanics in the sense that soils consist of a heterogeneous mixture of fluids (usually air and water) and particles.
