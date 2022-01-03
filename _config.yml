@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yanfei Zhang"
   avatar           : "profile.png"
-  bio              : "my persional academic page"
+  bio              : 
   location         : "Chengdu, CHINA"
   employer         :
   googlescholar    :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/yanfei-zhang-57176459/
+  linkedin         : "yanfei-zhang-57176459"
   orcid            : 
   pinterest        :
   soundcloud       :
