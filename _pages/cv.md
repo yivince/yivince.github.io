@@ -14,16 +14,16 @@ PDF file [link](https://github.com/yivince/yivince.github.io/raw/master/files/pa
 
 Education
 ======
-* Ph.D. in Railway Engineering, Southwest Jiaotong University, China, Sep. 2018- Present
-* M.Eng in Civil Engineering, Taiyuan University of Technology, China, Sep. 2015- June.2018
-* B.Eng in Civil Engineering, Central South University of Forestry and Technology, China, Sep.2011-June.2015
+* Ph.D. in Railway Engineering, Southwest Jiaotong University, China, 2018- Present
+* M.Eng in Civil Engineering, Taiyuan University of Technology, China, 2015- 2018
+* B.Eng in Civil Engineering, Central South University of Forestry and Technology, China, 2011- 2015
  
 Skills
 ======
 * ENGLISH fluently, skilled in writing papers 
 * Model test design and processing
-* Data acquisition program coding/loading device control program coding by Python
-* Soil suction testing technology
+* Data acquisition program/loading device control program coding by Python
+* Soil suction testing
 
 Publications
 ======
