@@ -29,14 +29,15 @@ Publications
 ======
 * Zhang, Y., Liu, X., Stability of Qanat tunnel in c-φ soil under surcharge,
 International Journal of Geomechanics. (Under review)
+* Zhang Y, Liu X, Yuan S, Zhang T, Song J, Chen W. Probabilistic stability analysis of qanat tunnels in c-φ soil considering soil spatial variability, European Journal of Environmental and Civil Engineering. (SCI Q3)
 * Zhang, Y., Liu, X.,Study on the critical depth of safety critical depth of the high-speed railway's qanat
-foundation channel, China Railway Science. (in Chinese, EI, Accept)
+foundation channel, China Railway Science. (in Chinese, EI)
 * Liu, X., Yang, J., Zhang, Y., Yuan, S., Gao, Z., Chen, W., Jiang, G.. Tehran-Isfahan High-speed
 Railway Ground Soil Variability Analysis and Probability Distribution, Journal of Railways. (in
-Chinese, EI, Accept)
+Chinese, EI)
 * Chen, W., Min, S., Chala, A. T., Zhang, Y., & Liu, X.. Assessing compaction of existing railway
 subgrades using dynamic cone penetration testing[J]. Proceedings of the Institution of Civil
-Engineers-Geotechnical Engineering, 2020: 1-12. (SCI Q4,Accept)
+Engineers-Geotechnical Engineering, 2020: 1-12. (SCI Q3)
 * Wang, L., Li, X., Cheng, Y., Zhang, Y., & Bai, X.. Effects of Coal-Bearing Metakaolin on The
 Compressive Strength and Permeability of Cemented Silty Soil and Mechanisms [J]. Construction and
 Building Materials, 2018, 186: 174-181. (SCI, Q1)
