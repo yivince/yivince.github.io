@@ -27,8 +27,8 @@ Skills
 
 Publications
 ======
-* Zhang, Y., Liu, X., A two-dimensional experimental study of active progressive failure of deeply buried Qanat tunnels in sandy ground, Soils and Foundations.
-* Zhang Y, Liu X, Yuan S, Zhang T, Song J, Chen W. Probabilistic stability analysis of qanat tunnels in c-φ soil considering soil spatial variability, European Journal of Environmental and Civil Engineering.
+* Zhang, Y., Liu, X., A two-dimensional experimental study of active progressive failure of deeply buried Qanat tunnels in sandy ground, Soils and Foundations.2023.
+* Zhang Y, Liu X, Yuan S, Zhang T, Song J, Chen W. Probabilistic stability analysis of qanat tunnels in c-φ soil considering soil spatial variability, European Journal of Environmental and Civil Engineering.2022.
 * Zhang, Y., Liu, X.,Study on the critical depth of safety critical depth of the high-speed railway's qanat
 foundation channel, China Railway Science. (in Chinese)
 * Liu, X., Yang, J., Zhang, Y., Yuan, S., Gao, Z., Chen, W., Jiang, G.. Tehran-Isfahan High-speed
