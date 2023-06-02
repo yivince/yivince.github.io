@@ -27,20 +27,19 @@ Skills
 
 Publications
 ======
-* Zhang, Y., Liu, X., Stability of Qanat tunnel in c-φ soil under surcharge,
-International Journal of Geomechanics. (Under review)
-* Zhang Y, Liu X, Yuan S, Zhang T, Song J, Chen W. Probabilistic stability analysis of qanat tunnels in c-φ soil considering soil spatial variability, European Journal of Environmental and Civil Engineering. (SCI Q3)
+* Zhang, Y., Liu, X., A two-dimensional experimental study of active progressive failure of deeply buried Qanat tunnels in sandy ground, Soils and Foundations.
+* Zhang Y, Liu X, Yuan S, Zhang T, Song J, Chen W. Probabilistic stability analysis of qanat tunnels in c-φ soil considering soil spatial variability, European Journal of Environmental and Civil Engineering.
 * Zhang, Y., Liu, X.,Study on the critical depth of safety critical depth of the high-speed railway's qanat
-foundation channel, China Railway Science. (in Chinese, EI)
+foundation channel, China Railway Science. (in Chinese)
 * Liu, X., Yang, J., Zhang, Y., Yuan, S., Gao, Z., Chen, W., Jiang, G.. Tehran-Isfahan High-speed
 Railway Ground Soil Variability Analysis and Probability Distribution, Journal of Railways. (in
-Chinese, EI)
+Chinese)
 * Chen, W., Min, S., Chala, A. T., Zhang, Y., & Liu, X.. Assessing compaction of existing railway
 subgrades using dynamic cone penetration testing[J]. Proceedings of the Institution of Civil
-Engineers-Geotechnical Engineering, 2020: 1-12. (SCI Q3)
+Engineers-Geotechnical Engineering, 2020: 1-12. 
 * Wang, L., Li, X., Cheng, Y., Zhang, Y., & Bai, X.. Effects of Coal-Bearing Metakaolin on The
 Compressive Strength and Permeability of Cemented Silty Soil and Mechanisms [J]. Construction and
-Building Materials, 2018, 186: 174-181. (SCI, Q1)
+Building Materials, 2018, 186: 174-181. 
 * Zhang, Y., Gao, J., Zhang, W., Du, Y., & Bai, X.. Model Test Study on Steel Pipe Pile Foundation
 Based on Shape Acceleration Array [J]. Journal of Central North University(Natural Sciences
 Edition), 2017:38 (4), 452-457. (in Chinese)
@@ -49,7 +48,7 @@ Stabilized Soil, Non-Metallic Mines, 2018：41 (1), 45-48. (in Chinese)
 * Gao, J., Du, Y., Zhang, Y.. Application of Shape Acceleration Array Technology to Lab Test of
 Clustered Suction Piles [J]. Construction Technology, 2017:(S1),16-21. (in Chinese)
 * Zhang, W., Du, Y., Gao, J., Zhang, Y., Guo, Z., & Bai, X.. Calculation for ultimate inclined pull-out
-capacity of single suction pile in sand [J]. Journal of Guangxi University(Natural Science Edition),
+capacity of single suction pile in sand [J]. Journal of Guangxi University(Natural Science Edition).  (in Chinese)
   
 Patents
 ======
